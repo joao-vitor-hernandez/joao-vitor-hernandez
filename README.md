@@ -32,4 +32,4 @@ Atuar como desenvolvedor backend, contribuindo no desenvolvimento de sistemas e 
 ---
 
 ## 📫 Contato
-- LinkedIn: www.linkedin.com/in/joão-vitor-hernandez-060831409
+- LinkedIn: www.linkedin.com/in/joão-vitor-hernandez-dev-java
