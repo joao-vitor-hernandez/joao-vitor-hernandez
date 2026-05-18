@@ -40,5 +40,5 @@ Gostaria de ingressar em um time de tecnologia no setor bancário/financeiro com
 ---
 
 ## 📫 Vamos nos conectar?
-*   **LinkedIn:** [linkedin.com/in/joão-vitor-hernandez-dev-java](https://www.linkedin.com/in/jo%C3%A3o-vitor-hernandez-dev-java)
+*   **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-hernandez-dev-java)
 *   **E-mail:** [jvhernandez.dev@gmail.com]
